@@ -1,4 +1,4 @@
-Hi my name is Keegan Pratt I am a student software engineer
+I Like code
 
 <!---
 KPRATT11/KPRATT11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
